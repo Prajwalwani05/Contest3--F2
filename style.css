@@ -1,0 +1,44 @@
+ 
+  
+  body{
+    background-color: black;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+  }
+  .page{
+    width: 800px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+   font-size: 15px;
+  }
+  tr{
+    border: 2px solid #FFFFFF;;
+    border-left:none ;
+    border-right:none ;
+    border-top:none ;
+  }
+
+input{
+    background-color: black;
+    color:white;
+    border:2px solid #8E8E8E;
+    height: 40px;
+    font-size: 13px;
+  }
+button{
+    background-color: black;
+    color:white;
+    border:2px solid #8E8E8E;
+    height: 40px;
+    font-size: 15px;
+}
